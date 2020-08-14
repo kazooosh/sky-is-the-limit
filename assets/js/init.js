@@ -1,5 +1,8 @@
 $(document).ready(function () {
     // getText();
-    jQ();
     console.log("Document ready!");
+});
+$(window).on('load', function() {
+    jQ();
+    console.log("Document load!");
 });

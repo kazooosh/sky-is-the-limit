@@ -21,32 +21,44 @@
 //     //     "test":[ "Ford", "BMW", "Fiat" ]
 //     // };
 //(let i = 0; i < data["sayings"].length; i++) {
-    //     let saying = data["sayings"][i]["skylimit"];
-    //     // console.log(saying);
-    //     $('body').append('<p>' + saying + '</p>');
-    // }
-    // console.log(data["sayings"][2])
-    // console.log(data); //see your data ( works in Chrome / FF with firebug)
-    // con
+//     let saying = data["sayings"][i]["skylimit"];
+//     // console.log(saying);
+//     $('body').append('<p>' + saying + '</p>');
+// }
+// console.log(data["sayings"][2])
+// console.log(data); //see your data ( works in Chrome / FF with firebug)
+// con
 // }
 function getRandomInt(max) {
     return Math.floor(Math.random() * Math.floor(max));
 }
 
 function jQ() {
-    $.getJSON('assets/js/json/sky-limit.json', function(data) {
-        let x =getRandomInt(data["sayings"].length);
-        let saying = data["sayings"][x]["skylimit"];
-        $('body').append('<h1>' + saying + '</h1>');
-
-        var c=document.getElementById("myCanvas");
-        var ctx=c.getContext("2d");
-        ctx.fillText(saying,10,50);
-
-        $('button').on('click', function() {
-            Canvas2Image.saveAsImage(c, 200, 200, 'png');
+    $.getJSON('assets/js/json/sky-limit.json', function (data) {
+        WebFont.load({
+            google: {
+                families: ['Kalam', 'cursive']
+            }
         });
-    });
+        let x = getRandomInt(data["sayings"].length);
+        let saying = data["sayings"][x]["skylimit"];
+        let words = saying.split(' ');
+        let parts = "empty";
+        for (let i = 0; i < words.length; i++) {
+            parts = words.join(' ');
+        }
+        console.log(parts);
 
+        var c = document.getElementById("myCanvas");
+        var ctx = c.getContext("2d");
+        var img = document.getElementById("img");
+        ctx.drawImage(img, 0, 0);
+        ctx.font = "3rem Kalam";
+        ctx.fillStyle = 'white';
+        ctx.fillText(saying, 10, 780);
 
+        $('button').on('click', function () {
+            Canvas2Image.saveAsImage(c, 800, 800, 'png');
+        });
+    })
 }
