@@ -1,5 +1,14 @@
 body, html {
   margin: 0;
+  background: darkslategray;
+  text-align: center;
+  color: white;
+  @import url("https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap");
+  font-family: "Caveat", cursive;
+}
+
+#myCanvas {
+  border: 2px solid deepskyblue;
 }
 
 /*# sourceMappingURL=style.css.map */

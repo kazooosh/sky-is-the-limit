@@ -1,0 +1,2411 @@
+﻿{
+    "test": [
+        "Eins", "Zwei", "Drei", "Vier"
+    ],
+    "sayings": [
+        {
+            "id": "1",
+            "skylimit": "Oft merkt man erst am Ende, dass es schon am Anfang nicht stimmte."
+        },
+        {
+            "id": "2",
+            "skylimit": "Kein Status dieser Welt drückt aus wie man sich in Wirklichkeit fühlt."
+        },
+        {
+            "id": "3",
+            "skylimit": "Weil mein Status kaputt geht. Net deiner!"
+        },
+        {
+            "id": "4",
+            "skylimit": "Ich habe dir mehr gegeben als dein Wert beträgt."
+        },
+        {
+            "id": "5",
+            "skylimit": "Der größte Fehler ist, Angst zu haben, einen Fehler zu machen."
+        },
+        {
+            "id": "6",
+            "skylimit": "Hey there! WhatsApp is using me."
+        },
+        {
+            "id": "7",
+            "skylimit": "Die Kälte in deinem Blick sagt mehr als du jemals gesagt hast."
+        },
+        {
+            "id": "8",
+            "skylimit": "Du kannst nicht negativ denken und positives erwarten."
+        },
+        {
+            "id": "9",
+            "skylimit": "Lieben heißt auch verlieren."
+        },
+        {
+            "id": "10",
+            "skylimit": "Nur der Denkende erlebt sein Leben, am Gedankenlosen zieht es vorbei."
+        },
+        {
+            "id": "11",
+            "skylimit": "Wie tief kann man sinken, ohne zu ertrinken?"
+        },
+        {
+            "id": "12",
+            "skylimit": "Der Mensch ist erst wirklich tot, wenn niemand mehr an ihn denkt."
+        },
+        {
+            "id": "13",
+            "skylimit": "Zu sterben ist nicht schlimm, das Leben nicht gelebt zu haben, schon."
+        },
+        {
+            "id": "14",
+            "skylimit": "Liebe ist der Wunsch etwas zu geben, nicht etwas zu erhalten."
+        },
+        {
+            "id": "15",
+            "skylimit": "Lebe heute. Morgen könnte es dafür zu spät sein."
+        },
+        {
+            "id": "16",
+            "skylimit": "Besondere Menschen erkennt man nicht, man fühlt sie."
+        },
+        {
+            "id": "17",
+            "skylimit": "Denke nicht so oft an das, was dir fehlt, sondern an das, was du hast."
+        },
+        {
+            "id": "18",
+            "skylimit": "Sie sind wahnsinnig.. aber möglicherweise auch genial"
+        },
+        {
+            "id": "19",
+            "skylimit": "Fallen ist weder gefährlich noch eine Schande, liegen bleiben ist beides."
+        },
+        {
+            "id": "20",
+            "skylimit": "Everyone makes mistakes, that's why pencils have erasers."
+        },
+        {
+            "id": "21",
+            "skylimit": "Das Gesicht eines Menschen siehst du im Licht, seinen wahren Charakter im Dunkeln."
+        },
+        {
+            "id": "22",
+            "skylimit": "Wer schreit ist nur zu schwach zum schweigen."
+        },
+        {
+            "id": "23",
+            "skylimit": "Liebe ist wie Wasser. Die Einen kämpfen darum, die Anderen verschwenden es."
+        },
+        {
+            "id": "24",
+            "skylimit": "Der Weg ist das Ziel."
+        },
+        {
+            "id": "25",
+            "skylimit": "Wirklich stark bist du, wenn du in den schlimmsten Zeiten dein Lachen nicht verlierst."
+        },
+        {
+            "id": "26",
+            "skylimit": "Alle reden von Ehrlichkeit, doch keiner verkraftet die Wahrheit."
+        },
+        {
+            "id": "27",
+            "skylimit": "Pass auf, dass du dich nicht verlierst, während du suchst, was nicht existiert."
+        },
+        {
+            "id": "28",
+            "skylimit": "Nenn es nicht Fehler, wenn du in dem Moment glücklich warst."
+        },
+        {
+            "id": "29",
+            "skylimit": "Vom Mond aus betrachtet spielt das Ganze gar keine so große Rolle."
+        },
+        {
+            "id": "30",
+            "skylimit": "Vergiss nie wer du bist, aber vergiss die schlechten Menschen in deinem Leben."
+        },
+        {
+            "id": "31",
+            "skylimit": "Liebe ist wie eine Droge. Entweder sie zeigt dir das Paradies oder sie bringt dich um."
+        },
+        {
+            "id": "32",
+            "skylimit": "Das Glück ist das einzige, was sich verdoppelt, wenn man es teilt."
+        },
+        {
+            "id": "33",
+            "skylimit": "Du warst der richtige Mensch, nur zur falschen Zeit."
+        },
+        {
+            "id": "34",
+            "skylimit": "Der Weg nach oben hoch, ist der selbe wie nach unten."
+        },
+        {
+            "id": "35",
+            "skylimit": "Erfolg kommt dann, wenn du tust, was du liebst."
+        },
+        {
+            "id": "36",
+            "skylimit": "Jeder denkt an die Zukunft, während die Gegenwart blutet."
+        },
+        {
+            "id": "37",
+            "skylimit": "Lächel provokant, wirke arrogant und siehe da, du bist hoch interessant"
+        },
+        {
+            "id": "38",
+            "skylimit": "Kann mir mal bitte jemand das Wasser reichen?"
+        },
+        {
+            "id": "39",
+            "skylimit": "Aus Freundschaft kann Liebe werden, aber aus Liebe niemals Freundschaft."
+        },
+        {
+            "id": "40",
+            "skylimit": "Falsche Freunde gehen, wahre bleiben."
+        },
+        {
+            "id": "41",
+            "skylimit": "Wir ticken nicht richtig, aber wir ticken schon viel."
+        },
+        {
+            "id": "42",
+            "skylimit": "Ich muss dir nicht gefallen. Ich bin ja auch kein Facebook Status."
+        },
+        {
+            "id": "43",
+            "skylimit": "Ehrliche Menschen haben vielleicht nicht viele Freunde, dafür aber Echte."
+        },
+        {
+            "id": "44",
+            "skylimit": "Manchmal passiert lange Zeit nichts und dann alles auf einmal."
+        },
+        {
+            "id": "45",
+            "skylimit": "Ein Freund ist ein Mensch, vor dem man laut denken darf."
+        },
+        {
+            "id": "46",
+            "skylimit": "Ich hab gerade Zeit, wo gibt es gerade nichts zu tun?"
+        },
+        {
+            "id": "47",
+            "skylimit": "Lebe dein Leben als wäre es dein Letztes."
+        },
+        {
+            "id": "48",
+            "skylimit": "Manchmal sollte man auf sein Herz hören und nicht auf andere."
+        },
+        {
+            "id": "49",
+            "skylimit": "Wenn du mit der Wahrheit nicht klar kommst, dann frag nicht nach."
+        },
+        {
+            "id": "50",
+            "skylimit": "Augen können nur leuchten, wenn es etwas gibt, was das Innere zum Leuchten bringt."
+        },
+        {
+            "id": "51",
+            "skylimit": "Die Hand voller Asse doch das Leben spielt Schach."
+        },
+        {
+            "id": "52",
+            "skylimit": "Remember baby life is good, me and you against the whole world."
+        },
+        {
+            "id": "53",
+            "skylimit": "Wer mit dem Glück spielt, wird zum Verlierer."
+        },
+        {
+            "id": "54",
+            "skylimit": "Alle Lebewesen außer den Menschen wissen, dass der Hauptzweck des Lebens darin besteht, es zu genießen."
+        },
+        {
+            "id": "55",
+            "skylimit": "Ich war schon im Kindergarten eine Legende."
+        },
+        {
+            "id": "56",
+            "skylimit": "Jemanden alt zu nennen, macht dich auch nicht jünger."
+        },
+        {
+            "id": "57",
+            "skylimit": "Sei du selbst! Außer du kannst ein Einhorn sein ... Dann sei ein Einhorn!"
+        },
+        {
+            "id": "58",
+            "skylimit": "Perfekt wird das Leben nie sein, aber es gibt Menschen, die es perfekt machen."
+        },
+        {
+            "id": "59",
+            "skylimit": "Man muss manchmal von einem Menschen fortgehen, um ihn zu finden."
+        },
+        {
+            "id": "60",
+            "skylimit": "Ich hab keine Ahnung was du meinst, aber ich bin dabei!"
+        },
+        {
+            "id": "61",
+            "skylimit": "Manchmal kann man nichts machen, außer weiter."
+        },
+        {
+            "id": "62",
+            "skylimit": "Nicht der Apfel hat Schneewittchen vergiftet, sondern ihr blindes Vertrauen in Menschen."
+        },
+        {
+            "id": "63",
+            "skylimit": "Man kann mich aufhalten, aber niemals verlieren sehen."
+        },
+        {
+            "id": "64",
+            "skylimit": "Lerne loszulassen. Das ist der Schlüssel zum Glück."
+        },
+        {
+            "id": "65",
+            "skylimit": "Es ist nicht wichtig, was du betrachtest, sondern was du siehst."
+        },
+        {
+            "id": "66",
+            "skylimit": "Reich sind nur die, die wahre Freunde haben."
+        },
+        {
+            "id": "67",
+            "skylimit": "Vom geben ist nie jemand arm geworden."
+        },
+        {
+            "id": "68",
+            "skylimit": "Was ist, wenn der März eigentlich 32 Tage hat und der 1. April eigentlich ein Scherz ist?"
+        },
+        {
+            "id": "69",
+            "skylimit": "Bewerte deine Erfolge daran, was du aufgeben musstest, um sie zu erzielen."
+        },
+        {
+            "id": "70",
+            "skylimit": "Irgendwann ist dein Stolz stärker, als das Gefühl deines Herzens."
+        },
+        {
+            "id": "71",
+            "skylimit": "Du ahnst gar nicht, wie gut du mir tust."
+        },
+        {
+            "id": "72",
+            "skylimit": "Von Baby du warst es zu Baby das wars jetzt, von wir reden gar nicht zu wir reden Klartext."
+        },
+        {
+            "id": "73",
+            "skylimit": "Das größte Geschenk auf Erden ist Zeit und Aufmerksamkeit."
+        },
+        {
+            "id": "74",
+            "skylimit": "Lächel, als hätte dich niemand verletzt und kämpfe, als hättest du nie verloren."
+        },
+        {
+            "id": "75",
+            "skylimit": "Zeig mir wie man kämpft‚ dann zeige ich dir wie man siegt!"
+        },
+        {
+            "id": "76",
+            "skylimit": "Die richtigen Menschen stören nie."
+        },
+        {
+            "id": "77",
+            "skylimit": "Liebe deinen Nächsten so wie du dich liebst , vergeben ist nicht gleich vergessen."
+        },
+        {
+            "id": "78",
+            "skylimit": "Lass es kommen wie es kommt, denn es kommt sowieso."
+        },
+        {
+            "id": "79",
+            "skylimit": "Am Ende wird alles gut. Wenn es nicht gut wird, ist es noch nicht das Ende."
+        },
+        {
+            "id": "80",
+            "skylimit": "Die Musik drückt das aus, was nicht gesagt werden kann."
+        },
+        {
+            "id": "81",
+            "skylimit": "Rede nicht darüber wer du einst warst, sei wer du jetzt bist!"
+        },
+        {
+            "id": "82",
+            "skylimit": "Wenn du deine Augen nicht nutzt, um zu sehen, wirst du sie brauchen, um zu weinen."
+        },
+        {
+            "id": "83",
+            "skylimit": "Gib jedem eine zweite Chance, denn irgendwann brauchst du sie selber."
+        },
+        {
+            "id": "84",
+            "skylimit": "Bevor du jemanden aufgibst, denk nach, warum du ihn so lange festgehalten hast."
+        },
+        {
+            "id": "85",
+            "skylimit": "Manchmal muss man die Augen schließen um klarer zu sehen."
+        },
+        {
+            "id": "86",
+            "skylimit": "Lerne aus der Vergangenheit, aber mache sie nicht zu deinem Leben."
+        },
+        {
+            "id": "87",
+            "skylimit": "Mitleid bekommt man geschenkt, Neid muss man sich verdienen."
+        },
+        {
+            "id": "88",
+            "skylimit": "Du bist mir wichtig. Wenig Worte. Viel Bedeutung."
+        },
+        {
+            "id": "89",
+            "skylimit": "Lass mal lieber gucken, wie weit wir es allein bringen."
+        },
+        {
+            "id": "90",
+            "skylimit": "Indem man über andere schlecht redet, macht man sich selbst nicht besser."
+        },
+        {
+            "id": "91",
+            "skylimit": "Falls du mich suchst, ich bin überall, nur nicht in deinem Leben."
+        },
+        {
+            "id": "92",
+            "skylimit": "Die beste Frau die man haben kann, ist eine, die man mit Geld nicht erobern kann."
+        },
+        {
+            "id": "93",
+            "skylimit": "Es ist hart zu sehen, wie du mit einer anderen glücklich bist."
+        },
+        {
+            "id": "94",
+            "skylimit": "Jede neue Reise beginnt mit dem ersten Schritt."
+        },
+        {
+            "id": "95",
+            "skylimit": "schreibt ..."
+        },
+        {
+            "id": "96",
+            "skylimit": "Wie oft sagen wir, dass es egal ist, obwohl es das eigentlich nicht ist."
+        },
+        {
+            "id": "97",
+            "skylimit": "Die Scherben gebrochener Herzen schneiden tiefer als die schärfste Klinge."
+        },
+        {
+            "id": "98",
+            "skylimit": "Dort wo es Spuren gibt, sind auch Wege."
+        },
+        {
+            "id": "99",
+            "skylimit": "You cant stop the waves, but you can learn how to surf!"
+        },
+        {
+            "id": "100",
+            "skylimit": "Die Schönheit eines Menschen misst man indem, wie er dich fühlen lässt."
+        },
+        {
+            "id": "101",
+            "skylimit": "What goes around, comes around."
+        },
+        {
+            "id": "102",
+            "skylimit": "Rede nicht von Liebe, wenn du keinen Schmerz kennst."
+        },
+        {
+            "id": "103",
+            "skylimit": "Ob sie mich hassen oder lieben, ich bin mir selber immer treu geblieben."
+        },
+        {
+            "id": "104",
+            "skylimit": "Niemand ist vergleichbar mit dir und nichts ist vergleichbar mit uns."
+        },
+        {
+            "id": "105",
+            "skylimit": "Das Leben eines Menschen ist, was seine Gedanken aus ihm machen."
+        },
+        {
+            "id": "106",
+            "skylimit": "Liebe macht blind, aber nicht taub."
+        },
+        {
+            "id": "107",
+            "skylimit": "Für die Welt bist du nur irgendjemand, aber für irgendjemand bist du die Welt."
+        },
+        {
+            "id": "108",
+            "skylimit": "Vergessen ist einfach, doch verzeihen ist schwer."
+        },
+        {
+            "id": "109",
+            "skylimit": "Das Leben ist zu kurz um vielleicht zu sagen."
+        },
+        {
+            "id": "110",
+            "skylimit": "Sei nicht traurig wenn dein Ex eine Neue hat. Mama sagt immer: altes Spielzeug gibt man den Armen"
+        },
+        {
+            "id": "111",
+            "skylimit": "Das Leben ist wie Schach. Weiß das Leben, schwarz der Tod. Weiß beginnt, schwarz gewinnt."
+        },
+        {
+            "id": "112",
+            "skylimit": "When I'm thinking of you, I hope you do it too."
+        },
+        {
+            "id": "113",
+            "skylimit": "Sprich nie schlecht über die Zeit, in der du glücklich warst."
+        },
+        {
+            "id": "114",
+            "skylimit": "Freunde kann man nicht kaufen, sie sind ein Geschenk."
+        },
+        {
+            "id": "115",
+            "skylimit": "Wir fingen an die Zukunft zu planen, heute schauen wir in die Vergangenheit zurück."
+        },
+        {
+            "id": "116",
+            "skylimit": "Die Menschen die einen mit aller Gewalt kopieren wollen, haben kein eigenes und kein Glückliches Leben!"
+        },
+        {
+            "id": "117",
+            "skylimit": "Nur wer durchhält, kommt ans Ziel."
+        },
+        {
+            "id": "118",
+            "skylimit": "Die Liebe die wir geben, kriegen wir nur selten zurück."
+        },
+        {
+            "id": "119",
+            "skylimit": "Du wirst es schaffen, koste es was es wolle."
+        },
+        {
+            "id": "120",
+            "skylimit": "Du bist nicht schön, du siehst nur so aus."
+        },
+        {
+            "id": "121",
+            "skylimit": "Gottes Hand ist stärker als die des Teufels."
+        },
+        {
+            "id": "122",
+            "skylimit": "Klug ist, wer nur die Hälfte von dem glaubt, was er hört. Weise ist, wer erkennt, welche Hälfte die richtige ist."
+        },
+        {
+            "id": "123",
+            "skylimit": "Jemanden dick zu nennen, wird dich kein bisschen dünner machen."
+        },
+        {
+            "id": "124",
+            "skylimit": "Es kann nichts so schlecht sein, dass es nicht auch für etwas gut ist."
+        },
+        {
+            "id": "125",
+            "skylimit": "Die richtige Entscheidung wird einem erst nach der falschen klar."
+        },
+        {
+            "id": "126",
+            "skylimit": "One day you'll leave this world behind, so live a life you will remember."
+        },
+        {
+            "id": "127",
+            "skylimit": "Hast du mich enttäuscht oder hab ich mich in dir getäuscht?"
+        },
+        {
+            "id": "128",
+            "skylimit": "Wie gut, dass mich keiner denken hören kann."
+        },
+        {
+            "id": "129",
+            "skylimit": "Familie ist, wo Leben beginnt und Liebe niemals endet."
+        },
+        {
+            "id": "130",
+            "skylimit": "Wenn Dir jemand nicht mehr aus dem Kopf geht, dann gehört er in dein Herz."
+        },
+        {
+            "id": "131",
+            "skylimit": "Sei was du sein willst, nicht was andere sehen wollen."
+        },
+        {
+            "id": "132",
+            "skylimit": "Manchmal ist es besser, gewisse Dinge einfach kommentarlos hinzunehmen."
+        },
+        {
+            "id": "133",
+            "skylimit": "Finde jemanden, der weiß dass du nicht perfekt bist, dich aber so behandelt als wärst du es."
+        },
+        {
+            "id": "134",
+            "skylimit": "Ich habe dir vertraut. Mein Fehler."
+        },
+        {
+            "id": "135",
+            "skylimit": "Ich bin Single. Beziehungsweise Beziehungswaise."
+        },
+        {
+            "id": "136",
+            "skylimit": "Kein Mensch war ohne Grund in deinem Leben. Der eine war ein Geschenk, der andere eine Lektion."
+        },
+        {
+            "id": "137",
+            "skylimit": "Die Vergangenheit ist da, um daraus zu lernen, nicht um darin zu leben."
+        },
+        {
+            "id": "138",
+            "skylimit": "Wenn dich jemand ignoriert, störe ihn nicht dabei."
+        },
+        {
+            "id": "139",
+            "skylimit": "Mein Wunsch ist es nicht, perfekt zu sein, sondern gut genug für dich."
+        },
+        {
+            "id": "140",
+            "skylimit": "Wie konnte der Mund den ich geküsst habe, so viel Lügen sprechen?"
+        },
+        {
+            "id": "141",
+            "skylimit": "Wisst ihr was man nicht mehr finden kann, wenn man es einmal verloren hat? Vertrauen."
+        },
+        {
+            "id": "142",
+            "skylimit": "Es ist nicht die Liebe, die uns enttäuscht, es sind die Menschen."
+        },
+        {
+            "id": "143",
+            "skylimit": "Du kannst nicht einfach in mein Leben treten, mir wichtig werden und dann wieder gehen."
+        },
+        {
+            "id": "144",
+            "skylimit": "Vergiss diejenigen, die dich schon längst vergessen haben!"
+        },
+        {
+            "id": "145",
+            "skylimit": "Am Ende wird alles gut. Wenn es nicht gut wird, ist es noch nicht das Ende."
+        },
+        {
+            "id": "146",
+            "skylimit": "Bin von fast jedem hier enttäuscht, obwohl ich nichts erwarte."
+        },
+        {
+            "id": "147",
+            "skylimit": "Keiner ist wie du und das ist deine Stärke."
+        },
+        {
+            "id": "148",
+            "skylimit": "Ratschläge sind auch nur Schläge."
+        },
+        {
+            "id": "149",
+            "skylimit": "Manchmal redet man, weil man verstanden werden möchte. Manchmal schweigt man, weil man verstanden werden möchte."
+        },
+        {
+            "id": "150",
+            "skylimit": "Es ist nicht schwer loszulassen, wenn jemand da ist, der dich auffängt."
+        },
+        {
+            "id": "151",
+            "skylimit": "Verlass' dich darauf, verlassen zu werden."
+        },
+        {
+            "id": "152",
+            "skylimit": "Wer dein' schweigen nicht versteht, der versteht auch deine Worte nicht."
+        },
+        {
+            "id": "153",
+            "skylimit": "Du bist nicht auf der Welt um so zu sein, wie andere es gerne hätten."
+        },
+        {
+            "id": "154",
+            "skylimit": "Nur weil es schön beginnt, muss es nicht schön enden."
+        },
+        {
+            "id": "155",
+            "skylimit": "Man braucht zwei Jahre, um sprechen zu lernen, fünfzig, um schweigen zu lernen."
+        },
+        {
+            "id": "156",
+            "skylimit": "Wirklich gefährlich sind nur die Personen, denen du vertraust."
+        },
+        {
+            "id": "157",
+            "skylimit": "Die Macht in einer Beziehung hat der, dem die Beziehung egal ist."
+        },
+        {
+            "id": "158",
+            "skylimit": "Genau dann wenn es richtig ernst wird, wirst du sehen, wer dir wirklich zur Seite steht."
+        },
+        {
+            "id": "159",
+            "skylimit": "Es ist keine Kunst sich zu verlieben. Verliebt zu bleiben ist das Kunststück."
+        },
+        {
+            "id": "160",
+            "skylimit": "Nicht alles was man verliert, ist ein Verlust."
+        },
+        {
+            "id": "161",
+            "skylimit": "Die wahre Liebe begegnet dir nur einmal im Leben, nicht alle zwei Wochen."
+        },
+        {
+            "id": "162",
+            "skylimit": "Ein Weg entsteht, wenn man ihn geht."
+        },
+        {
+            "id": "163",
+            "skylimit": "3 Worte. 12 Buchstaben. Leicht zu sagen & schwer zu beweisen. Ich bin Batman."
+        },
+        {
+            "id": "164",
+            "skylimit": "Ich weine nicht weil ich traurig bin, ich weine weil ich zu lange stark war."
+        },
+        {
+            "id": "165",
+            "skylimit": "Es gibt viel, was mir fehlt. Aber davon habe ich genug."
+        },
+        {
+            "id": "166",
+            "skylimit": "Ich war noch nie an Schätzen interessiert. Das Einzige was ich wollte, war eine Familie."
+        },
+        {
+            "id": "167",
+            "skylimit": "Lebenspläne führen oft am Leben vorbei."
+        },
+        {
+            "id": "168",
+            "skylimit": "Engel kann man nicht sehen, aber man kann ihnen begegnen."
+        },
+        {
+            "id": "169",
+            "skylimit": "Rück die Dinge ins richtige Licht und sie werden leuchten."
+        },
+        {
+            "id": "170",
+            "skylimit": "Lass die Leute reden."
+        },
+        {
+            "id": "171",
+            "skylimit": "Gott erschuf dich, damit du ihn liebst, nicht damit du ihn verstehst."
+        },
+        {
+            "id": "172",
+            "skylimit": "Liebe, wenn du liebst. Vergebe, wenn du hasst."
+        },
+        {
+            "id": "173",
+            "skylimit": "Hey there! I am using your boyfriend."
+        },
+        {
+            "id": "174",
+            "skylimit": "Habe keine Fehler und erfinde sie, damit die Leute da draußen denken, ich bin wie sie."
+        },
+        {
+            "id": "175",
+            "skylimit": "Wie soll man Geschichte schreiben, wenn man nicht mal weiß, wie man Geschichte schreibt."
+        },
+        {
+            "id": "176",
+            "skylimit": "Manchmal hört man auf Fragen zu stellen, weil man aufgehört hat, den Antworten zu glauben."
+        },
+        {
+            "id": "177",
+            "skylimit": "Vielleicht hab ich mich nicht immer richtig entschieden, doch hab geschafft, dass die Probleme mich nicht verbiegen."
+        },
+        {
+            "id": "178",
+            "skylimit": "Worte verletzen, Ignoranz zerstört."
+        },
+        {
+            "id": "179",
+            "skylimit": "Die Schönheit der Dinge lebt in der Seele dessen, der sie betrachtet."
+        },
+        {
+            "id": "180",
+            "skylimit": "Irgendwann ist „Irgendwann“ zu spät."
+        },
+        {
+            "id": "181",
+            "skylimit": "Ich war in Teufelsküche, aber da hat es mir nicht geschmeckt."
+        },
+        {
+            "id": "182",
+            "skylimit": "Wahre Freunde erkennt man daran, dass sie Geheimnisse im Streit nicht gegen dich verwenden."
+        },
+        {
+            "id": "183",
+            "skylimit": "I can love you. But I can't have you."
+        },
+        {
+            "id": "184",
+            "skylimit": "Man kann Träume nicht leben, solange man schläft."
+        },
+        {
+            "id": "185",
+            "skylimit": "Ist doch kein Nehmen und Geben, wenn die Leute nur nehmen und gehen."
+        },
+        {
+            "id": "186",
+            "skylimit": "Gutes Aussehen macht noch lange kein schönes Herz."
+        },
+        {
+            "id": "187",
+            "skylimit": "Wem du dein Vertrauen schenkst, dem schenkst du ein Messer. Entweder er verteidigt dich, oder er sticht es dir in den Rücken."
+        },
+        {
+            "id": "188",
+            "skylimit": "Du bist nicht Xatar wenn Du bei GTA den Geldtransporter überfällst"
+        },
+        {
+            "id": "189",
+            "skylimit": "Inhale the good shit and exhale the bullshit."
+        },
+        {
+            "id": "190",
+            "skylimit": "Wer kein Ziel vor Augen hat, kann auch keinen Weg hinter sich bringen."
+        },
+        {
+            "id": "191",
+            "skylimit": "Man schweigt immer bei den Menschen, denen man eigentlich am meisten zu sagen hat."
+        },
+        {
+            "id": "192",
+            "skylimit": "Wer dich zum weinen bringt, weint eines Tages um dich."
+        },
+        {
+            "id": "193",
+            "skylimit": "Traurige Menschen lachen am schönsten, weil sie wissen was Glück bedeutet."
+        },
+        {
+            "id": "194",
+            "skylimit": "Handel wie du willst, aber denk an die Konsequenzen."
+        },
+        {
+            "id": "195",
+            "skylimit": "Das Gesicht eines Menschen siehst du im Licht - seinen Charakter im Dunklen."
+        },
+        {
+            "id": "196",
+            "skylimit": "Wer seine Freiheit nicht gebraucht, verliert sie ohne es zu merken."
+        },
+        {
+            "id": "197",
+            "skylimit": "Der wahre Charakter eines Menschen zeigt sich nicht bei der ersten Begegnung sondern bei der Letzten."
+        },
+        {
+            "id": "198",
+            "skylimit": "Je weniger du sprichst, umso mehr denken die Leute über deine Worte nach."
+        },
+        {
+            "id": "199",
+            "skylimit": "Wenn du das gerade liest, habe ich dir deine Zeit gestohlen."
+        },
+        {
+            "id": "200",
+            "skylimit": "Folge deinem Herzen. Aber vergiss dabei nicht, dein Gehirn mitzunehmen."
+        },
+        {
+            "id": "201",
+            "skylimit": "Die wichtigste Person in deinem Leben ist die, die dir in den Sinn kommt wenn du diesen Satz liest."
+        },
+        {
+            "id": "202",
+            "skylimit": "Wer einen Fehler begeht, und ihn nicht korrigiert, begeht einen zweiten."
+        },
+        {
+            "id": "203",
+            "skylimit": "Deine Joker sind nichts gegen meine Karten."
+        },
+        {
+            "id": "204",
+            "skylimit": "Wer anderen eine Bratwurst brät, der hat ein Bratwurstbratgerät!"
+        },
+        {
+            "id": "205",
+            "skylimit": "Enttäuschung ist das Ergebnis falscher Erwartungen."
+        },
+        {
+            "id": "206",
+            "skylimit": "Nichts ist so kostbar wie die Freiheit und nichts so wertvoll wie Vertrauen."
+        },
+        {
+            "id": "207",
+            "skylimit": "Der Schwache kann nicht verzeihen. Verzeihen ist eine Eigenschaft des Starken."
+        },
+        {
+            "id": "208",
+            "skylimit": "Das Leben ist zu kurz für irgendwann."
+        },
+        {
+            "id": "209",
+            "skylimit": "Warum beleidigen, wenn ein Lächeln schon viel mehr provoziert."
+        },
+        {
+            "id": "210",
+            "skylimit": "Die Art des Gebens ist wichtiger als die Gabe selbst."
+        },
+        {
+            "id": "211",
+            "skylimit": "Mach was du willst, die Leuten reden sowieso."
+        },
+        {
+            "id": "212",
+            "skylimit": "Die wahre Liebe begegnet dir nur einmal im Leben, und nicht alle zwei Wochen."
+        },
+        {
+            "id": "213",
+            "skylimit": "Gib alles, aber gib niemals auf."
+        },
+        {
+            "id": "214",
+            "skylimit": "Überlege einmal, bevor du gibst, zweimal, bevor du annimmst, und tausendmal, bevor du verlangst."
+        },
+        {
+            "id": "215",
+            "skylimit": "Es ist das Herz, das gibt. Die Hände geben nur her."
+        },
+        {
+            "id": "216",
+            "skylimit": "Zurückblicken macht klug, aber nicht glücklich."
+        },
+        {
+            "id": "217",
+            "skylimit": "Live » Love » Laugh"
+        },
+        {
+            "id": "218",
+            "skylimit": "Schöne Worte sind nicht immer wahr, wahre Worte sind nicht immer schön."
+        },
+        {
+            "id": "219",
+            "skylimit": "Was du hast, können viele haben. Doch was du bist, kann keiner sein."
+        },
+        {
+            "id": "220",
+            "skylimit": "Wenn alles nicht so läuft wie du denkst, dann denke anders."
+        },
+        {
+            "id": "221",
+            "skylimit": "Es geht nicht darum 100 Freunde zu haben, sondern einen Freund zu haben, wenn 100 gegen dich sind."
+        },
+        {
+            "id": "222",
+            "skylimit": "Sei begeistert und du wirst begeistern!"
+        },
+        {
+            "id": "223",
+            "skylimit": "Egal wie dicht du bist, Goethe war Dichter!"
+        },
+        {
+            "id": "224",
+            "skylimit": "Zeige denen, die dich fallen sehen wollen, dass du ohne Flügel fliegen kannst."
+        },
+        {
+            "id": "225",
+            "skylimit": "Jeder sagt halte durch, aber niemand sagt wie."
+        },
+        {
+            "id": "226",
+            "skylimit": "Schwierige Straßen führen oft zu wunderschönen Zielen."
+        },
+        {
+            "id": "227",
+            "skylimit": "Nichts ist wertvoller, als jemand der ehrlich zu dir ist."
+        },
+        {
+            "id": "228",
+            "skylimit": "Je netter ein Mensch ist, desto mehr wird er ausgenutzt."
+        },
+        {
+            "id": "229",
+            "skylimit": "Nimm dir Zeit für die Dinge, die dich glücklich machen."
+        },
+        {
+            "id": "230",
+            "skylimit": "Sage nicht alles, was du weißt, aber wisse immer, was du sagst."
+        },
+        {
+            "id": "231",
+            "skylimit": "Manchmal muss man in den Krieg ziehen, um Frieden zu finden."
+        },
+        {
+            "id": "232",
+            "skylimit": "Manche Dinge sind perfekt, andere müssen perfekt gemacht werden."
+        },
+        {
+            "id": "233",
+            "skylimit": "Glaube nicht alles, was du denkst."
+        },
+        {
+            "id": "234",
+            "skylimit": "Ich werde diesen Status erst ändern, wenn ich aufgehört habe dich zu lieben."
+        },
+        {
+            "id": "235",
+            "skylimit": "Real eyes realize real lies."
+        },
+        {
+            "id": "236",
+            "skylimit": "Auf deine Ignoranz folgt meine Distanz."
+        },
+        {
+            "id": "237",
+            "skylimit": "Wenn Plan A nicht funktioniert, bleib locker. Das Alphabet hat noch mehr Buchstaben."
+        },
+        {
+            "id": "238",
+            "skylimit": "Es gibt nur einen Weg nicht kritisiert zu werden, tue nichts, sage nichts, sei nichts."
+        },
+        {
+            "id": "239",
+            "skylimit": "Ich vermisse dich, wie die Wüste den Regen."
+        },
+        {
+            "id": "240",
+            "skylimit": "Was man gut findet, muss man nicht suchen."
+        },
+        {
+            "id": "241",
+            "skylimit": "Irgendwann hört man auf zu warten und fängt an zu vergessen."
+        },
+        {
+            "id": "242",
+            "skylimit": "Wer über jeden Schritt nachdenkt, der steht ein Leben lang auf einem Bein."
+        },
+        {
+            "id": "243",
+            "skylimit": "Manchmal muss man einfach über den Dingen stehen."
+        },
+        {
+            "id": "244",
+            "skylimit": "Wahre Freunde vergisst man nie."
+        },
+        {
+            "id": "245",
+            "skylimit": "Manche sagen bald wird alles gut, ich sage die beste Zeit ist immer, kommt drauf an ob du es versuchst."
+        },
+        {
+            "id": "246",
+            "skylimit": "Karma ist wie ein Menü, du bekommst das serviert, was du verdienst."
+        },
+        {
+            "id": "247",
+            "skylimit": "Wenn du Sicherheit im Leben haben willst, dann willst du das Leben nicht."
+        },
+        {
+            "id": "248",
+            "skylimit": "Keine Zeit um Zeit zu verlieren."
+        },
+        {
+            "id": "249",
+            "skylimit": "Kopf hoch, sonst siehst du die Sterne nicht mehr."
+        },
+        {
+            "id": "250",
+            "skylimit": "Lebe den Moment, sei offen für die Zukunft."
+        },
+        {
+            "id": "251",
+            "skylimit": "What doesn't kill you, makes you stronger!"
+        },
+        {
+            "id": "252",
+            "skylimit": "Wer vor der Vergangenheit die Augen verschließt, wird blind für die Zukunft."
+        },
+        {
+            "id": "253",
+            "skylimit": "Einfach mal machen, könnte ja gut werden."
+        },
+        {
+            "id": "254",
+            "skylimit": "Die Taten mancher Menschen beweisen, dass ihre Worte nichts wert sind."
+        },
+        {
+            "id": "255",
+            "skylimit": "Wer nichts weiß, muss alles glauben."
+        },
+        {
+            "id": "256",
+            "skylimit": "Nicht alle sind glücklich, die glücklich scheinen. Manche lachen nur um nicht zu weinen."
+        },
+        {
+            "id": "257",
+            "skylimit": "Du hast keinen Fehler gemacht, sondern eine bewusste Entscheidung getroffen."
+        },
+        {
+            "id": "258",
+            "skylimit": "Wer anderen eine Grube gräbt, ist Bauarbeiter."
+        },
+        {
+            "id": "259",
+            "skylimit": "Ich weiche deinen Blicken aus, dann schaue ich dir hinterher."
+        },
+        {
+            "id": "260",
+            "skylimit": "Die Lüge ist schon dreimal um die Welt bis die Wahrheit sich die Schuhe angezogen hat."
+        },
+        {
+            "id": "261",
+            "skylimit": "Distanz zu negativen Personen verbessert die Gesundheit."
+        },
+        {
+            "id": "262",
+            "skylimit": "Nur Menschen, die uns etwas bedeuten, können uns auch wirklich verletzen."
+        },
+        {
+            "id": "263",
+            "skylimit": "Musik tut das, was Liebe manchmal nicht kann. Sie bleibt."
+        },
+        {
+            "id": "264",
+            "skylimit": "Die Liebe will nichts von dem anderen, sie will alles für den anderen."
+        },
+        {
+            "id": "265",
+            "skylimit": "Gute Freunde erkennt man meist erst dann, wenn das Leben schwierig wird."
+        },
+        {
+            "id": "266",
+            "skylimit": "Köpfhörer rein, Realität aus."
+        },
+        {
+            "id": "267",
+            "skylimit": "Wenn du scheinst, sind sie blind vor Neid."
+        },
+        {
+            "id": "268",
+            "skylimit": "Ich bin heute ungefähr so motiviert, wie der Erfinder der Japanischen Flagge"
+        },
+        {
+            "id": "269",
+            "skylimit": "Auffällig, dass Menschen, die immer alles besser wissen, nie etwas besser machen."
+        },
+        {
+            "id": "270",
+            "skylimit": "Ankommen ist kein Ding, mal gucken wer mit da bleibt."
+        },
+        {
+            "id": "271",
+            "skylimit": "Menschen glauben oft der Mehrheit und nicht der Wahrheit."
+        },
+        {
+            "id": "272",
+            "skylimit": "Es braucht nur ein Wort einen Menschen zum Weinen zu bringen, aber es braucht 100 Worte um die Tränen zu trocknen."
+        },
+        {
+            "id": "273",
+            "skylimit": "Heute ist es für die Freundschaft zwischen uns zu spät und wir ignorieren uns so gut es geht."
+        },
+        {
+            "id": "274",
+            "skylimit": "Wir sind umgeben von Millionen Menschen, abhängig jedoch nur von einem."
+        },
+        {
+            "id": "275",
+            "skylimit": "Stolpere nicht über etwas, das hinter dir liegt."
+        },
+        {
+            "id": "276",
+            "skylimit": "Menschen die sich so geben wie sie sind, sind immer die Gewinner."
+        },
+        {
+            "id": "277",
+            "skylimit": "Menschen ändern ihre Gesichter, wie Ampeln ihre Lichter."
+        },
+        {
+            "id": "278",
+            "skylimit": "Kein Scham und keine Ehre, wo dein Herz sein sollte herrscht gähnende Leere!"
+        },
+        {
+            "id": "279",
+            "skylimit": "Leben ist das was passiert, während du beschäftigt bist, andere Pläne zu machen."
+        },
+        {
+            "id": "280",
+            "skylimit": "Ohne glückliche Augen ist das Lächeln nichts wert."
+        },
+        {
+            "id": "281",
+            "skylimit": "Wer nicht hinter mir steht, dem mache ich Platz damit er gehen kann."
+        },
+        {
+            "id": "282",
+            "skylimit": "Denken ist schwer, darum urteilen die Meisten."
+        },
+        {
+            "id": "283",
+            "skylimit": "Dein Umfeld färbt auf dich ab. Wähle weise, mit wem du dich umgibst."
+        },
+        {
+            "id": "284",
+            "skylimit": "Hunde die bellen, beissen nicht!"
+        },
+        {
+            "id": "285",
+            "skylimit": "Verlass die Leute, die dir das Gefühl geben, nichts wert zu sein."
+        },
+        {
+            "id": "286",
+            "skylimit": "Nicht am Ziel wird der Mensch groß, sondern auf dem Weg dorthin."
+        },
+        {
+            "id": "287",
+            "skylimit": "Wenn du am Boden liegst, findest du Verlorenes wieder."
+        },
+        {
+            "id": "288",
+            "skylimit": "Nimm mich so wie ich bin, oder geh, so wie du gekommen bist."
+        },
+        {
+            "id": "289",
+            "skylimit": "Vielleicht ist das Leben ein Kampf, den keiner gewinnen kann."
+        },
+        {
+            "id": "290",
+            "skylimit": "Auch andere Wege haben schöne Steine."
+        },
+        {
+            "id": "291",
+            "skylimit": "Erst wenn man stolpert, achtet man auf den Weg."
+        },
+        {
+            "id": "292",
+            "skylimit": "Kämpfe um die Liebe, aber sterbe für die Freundschaft."
+        },
+        {
+            "id": "293",
+            "skylimit": "Sie wollen den Frieden nicht, weil sie den Krieg nicht kennen."
+        },
+        {
+            "id": "294",
+            "skylimit": "Niemand kann uns nehmen, was schon lange nicht mehr da ist."
+        },
+        {
+            "id": "295",
+            "skylimit": "Ich bin eine Entscheidung, keine Option."
+        },
+        {
+            "id": "296",
+            "skylimit": "Dein Leben gehört nicht dir, wenn du dich ständig darum sorgst, was andere über dich denken."
+        },
+        {
+            "id": "297",
+            "skylimit": "Wer nichts lernt, kann nichts vergessen."
+        },
+        {
+            "id": "298",
+            "skylimit": "Wer nichts sagt, kann nicht richtig verstanden werden."
+        },
+        {
+            "id": "299",
+            "skylimit": "Sag nicht vielleicht, wenn du nein sagen willst."
+        },
+        {
+            "id": "300",
+            "skylimit": "Jemand nannte mich heute faul. Ich hätte ihm fast noch geantwortet."
+        },
+        {
+            "id": "301",
+            "skylimit": "Die besten Dinge im Leben sind nicht die, die man für Geld bekommt."
+        },
+        {
+            "id": "302",
+            "skylimit": "Unsere Sprüche retten nicht die Welt, manchmal aber den Tag."
+        },
+        {
+            "id": "303",
+            "skylimit": "Hey there! I am not using WhatsApp!"
+        },
+        {
+            "id": "304",
+            "skylimit": "Was würde das Kind, das du damals warst, zu dem Menschen sagen, der du heute bist?"
+        },
+        {
+            "id": "305",
+            "skylimit": "Meine Welt hat mit deiner Welt nicht allzu viel zu tun."
+        },
+        {
+            "id": "306",
+            "skylimit": "Hasst du jemanden wegen Erfolg, dann ist es Neid."
+        },
+        {
+            "id": "307",
+            "skylimit": "Nur mit der Zeit wird alles klar und deutlich."
+        },
+        {
+            "id": "308",
+            "skylimit": "Der leichteste Weg, ist nicht immer der beste Weg."
+        },
+        {
+            "id": "309",
+            "skylimit": "Mein Schienbein hilft mir Nachts Möbel zu finden."
+        },
+        {
+            "id": "310",
+            "skylimit": "Nur der Gedanke an dich, zaubert mir ein Lächeln ins Gesicht."
+        },
+        {
+            "id": "311",
+            "skylimit": "Niemand kann dir dein Herz brechen, solange du so tust, als hättest du keins."
+        },
+        {
+            "id": "312",
+            "skylimit": "Wir nehmen die Liebe an, von der wir denken, dass wir sie verdienen."
+        },
+        {
+            "id": "313",
+            "skylimit": "Ratschläge sind auch nur Schläge."
+        },
+        {
+            "id": "314",
+            "skylimit": "Manchmal muss man es einfach so lange regnen lassen, bis die Sonne wieder scheint."
+        },
+        {
+            "id": "315",
+            "skylimit": "Wir müssen sparen, koste es was es wolle."
+        },
+        {
+            "id": "316",
+            "skylimit": "Lass dir dein Strahlen nicht nehmen, nur weil es andere blendet."
+        },
+        {
+            "id": "317",
+            "skylimit": "Die Dinge haben nur den Wert, den man ihnen verleiht."
+        },
+        {
+            "id": "318",
+            "skylimit": "Ihr gönnt nur jedem immer das Beste, bis er dann mal mehr hat als ihr."
+        },
+        {
+            "id": "319",
+            "skylimit": "Es kommt nicht darauf an, mit dem Kopf durch die Wand zu rennen, sondern mit den Augen die Tür zu finden."
+        },
+        {
+            "id": "320",
+            "skylimit": "Menschen neigen immer dazu, über ihre Gefühle nachzudenken anstatt zu fühlen."
+        },
+        {
+            "id": "321",
+            "skylimit": "Ich wäre für immer geblieben, doch du hast dich gegen mich entschieden."
+        },
+        {
+            "id": "322",
+            "skylimit": "Vergib deinen Feinden, aber vergiss niemals ihre Namen"
+        },
+        {
+            "id": "323",
+            "skylimit": "Verstehen kann man das Leben rückwärts. Leben muss man es aber vorwärts."
+        },
+        {
+            "id": "324",
+            "skylimit": "Einem verzeihen ist wie ein Buch nochmal zu lesen, man weiß wie es endet."
+        },
+        {
+            "id": "325",
+            "skylimit": "Erfolg wird nur derjenige haben, der sich unterscheidet."
+        },
+        {
+            "id": "326",
+            "skylimit": "Durch Träume zahl ich mein Tribut."
+        },
+        {
+            "id": "327",
+            "skylimit": "Das was uns verbindet, ist stärker als die Entfernung, die uns trennt."
+        },
+        {
+            "id": "328",
+            "skylimit": "Bleib einfach wie du bist. Die Richtigen werden bleiben."
+        },
+        {
+            "id": "329",
+            "skylimit": "Respekt ist und bleibt die wertvollste Währung."
+        },
+        {
+            "id": "330",
+            "skylimit": "Schwer zu Finden, leicht zu bekommen, wie meine Socken."
+        },
+        {
+            "id": "331",
+            "skylimit": "Lerne die Regeln, damit du sie richtig brechen kannst."
+        },
+        {
+            "id": "332",
+            "skylimit": "Wer immer nur das tut, was er kann, wird immer auch das bleiben, was er schon ist."
+        },
+        {
+            "id": "333",
+            "skylimit": "Ich habe nicht versagt. Ich habe nur 1000 Wege gefunden, wie es nicht funktioniert."
+        },
+        {
+            "id": "334",
+            "skylimit": "Wenn man Anti-Alles ist, ist man am Ende alleine."
+        },
+        {
+            "id": "335",
+            "skylimit": "Worte zeigen, wie jemand gerne wäre. Taten zeigen, wie jemand wirklich ist."
+        },
+        {
+            "id": "336",
+            "skylimit": "Logik wird dich von A nach B bringen, Phantasie wohin du willst."
+        },
+        {
+            "id": "337",
+            "skylimit": "An allem was man sagt, ist auch was dran."
+        },
+        {
+            "id": "338",
+            "skylimit": "Glaube nicht alles, was dein Auge sieht, denn Zucker und Salz sehen auch gleich aus."
+        },
+        {
+            "id": "339",
+            "skylimit": "Ich könnte alles für dich tun, aber alles ist dir leider nicht genug."
+        },
+        {
+            "id": "340",
+            "skylimit": "Sei eine erstklassige Ausgabe deiner selbst, keine zweitklassige von jemand anderem."
+        },
+        {
+            "id": "341",
+            "skylimit": "Ich lass den Kopf nicht hängen, sonst fällt die Krone runter!"
+        },
+        {
+            "id": "342",
+            "skylimit": "Wer kämpft, kann verlieren. Wer nicht kämpft, hat schon verloren."
+        },
+        {
+            "id": "343",
+            "skylimit": "Wenn dir etwas wichtig ist, gibt es kein aber."
+        },
+        {
+            "id": "344",
+            "skylimit": "There are a million reasons why I should give you up, but the heart wants what it wants ..."
+        },
+        {
+            "id": "345",
+            "skylimit": "Es wäre eh viel zu schön gewesen, um wahr zu sein."
+        },
+        {
+            "id": "346",
+            "skylimit": "Menschen werden still, wenn sie sich überflüssig fühlen."
+        },
+        {
+            "id": "347",
+            "skylimit": "Schließe ab mit deiner Vergangenheit, und lerne die Zukunft zu lieben."
+        },
+        {
+            "id": "348",
+            "skylimit": "Verändere dich nicht um den anderen zu gefallen."
+        },
+        {
+            "id": "349",
+            "skylimit": "Was andere Menschen von dir denken ist nicht dein Problem."
+        },
+        {
+            "id": "350",
+            "skylimit": "Wer den Regenbogen will, muss den Regen in Kauf nehmen."
+        },
+        {
+            "id": "351",
+            "skylimit": "Wer neue Antworten will, muss neue Fragen stellen."
+        },
+        {
+            "id": "352",
+            "skylimit": "Sie werden dich ignorieren, bis sie dich brauchen."
+        },
+        {
+            "id": "353",
+            "skylimit": "Der Liebe zu begegnen, ohne sie zu suchen, ist der einzige Weg, sie zu finden."
+        },
+        {
+            "id": "354",
+            "skylimit": "Vergiss die erste große Liebe, auf die Letzte kommt es an."
+        },
+        {
+            "id": "355",
+            "skylimit": "Wir leben zu sehr in der Vergangenheit, haben Angst vor der Zukunft und vergessen dabei völlig, die Gegenwart zu genießen."
+        },
+        {
+            "id": "356",
+            "skylimit": "Aus nächtelangem Reden wurde tagelanges Schweigen."
+        },
+        {
+            "id": "357",
+            "skylimit": "Alles wird teurer, nur die Ausreden werden billiger."
+        },
+        {
+            "id": "358",
+            "skylimit": "Du und Ich, Hand in Hand, auf dem Weg zum Dönerstand."
+        },
+        {
+            "id": "359",
+            "skylimit": "Niemand hilft dir, wenn du unten bist. Aber alle wollen, dass du ihnen die Hand reichst, wenn du oben stehst."
+        },
+        {
+            "id": "360",
+            "skylimit": "Wir beide zusammen stellen die Welt auf den Kopf."
+        },
+        {
+            "id": "361",
+            "skylimit": "Merke dir, dass Gott dich von jedem trennt, der dir schadet."
+        },
+        {
+            "id": "362",
+            "skylimit": "Wenn sie dich nicht persönlich kennen, nimm es nicht persönlich."
+        },
+        {
+            "id": "363",
+            "skylimit": "Schenke deinem Mädchen Aufmerksamkeit, bevor es jemand anderes tut."
+        },
+        {
+            "id": "364",
+            "skylimit": "Ein Wunsch ändert nichts. Ein Entschluss ändert alles."
+        },
+        {
+            "id": "365",
+            "skylimit": "Ich kann dir die Tür zeigen, aber durchgehen musst du alleine."
+        },
+        {
+            "id": "366",
+            "skylimit": "Bleib immer du selbst. Du musst niemandem etwas beweisen."
+        },
+        {
+            "id": "367",
+            "skylimit": "Warum ich so bin, wie ich bin? Vielleicht weil mich jemand genau so braucht, wie ich bin."
+        },
+        {
+            "id": "368",
+            "skylimit": "Ich mache mein eigenes Ding, auch wenn ich bitterlich daran scheitere."
+        },
+        {
+            "id": "369",
+            "skylimit": "Über die Liebe lächelt man so lange, bis sie einen selber erwischt."
+        },
+        {
+            "id": "370",
+            "skylimit": "Wenn du jemanden dein Herz schenkst, musst du damit rechnen, dass es auch gebrochen werden kann."
+        },
+        {
+            "id": "371",
+            "skylimit": "Fürchte dich nicht, langsam zu gehen, fürchte dich nur, stehen zu bleiben."
+        },
+        {
+            "id": "372",
+            "skylimit": "Ihr verwechselt Ehrlichkeit mit Schwäche, doch am besten lacht der Letzte."
+        },
+        {
+            "id": "373",
+            "skylimit": "I'm a Cactus, Kikerikii"
+        },
+        {
+            "id": "374",
+            "skylimit": "Planlos geht mein Plan los!"
+        },
+        {
+            "id": "375",
+            "skylimit": "Klar kannst du dich mal melden, halt nur nicht bei mir."
+        },
+        {
+            "id": "376",
+            "skylimit": "Doch ich habe festgestellt der Toaster ist intelligenter als Du!"
+        },
+        {
+            "id": "377",
+            "skylimit": "Wenn du stark sein willst, musst du lernen alleine zu kämpfen."
+        },
+        {
+            "id": "378",
+            "skylimit": "Das Leben beginnt dort, wo die Angst endet."
+        },
+        {
+            "id": "379",
+            "skylimit": "Warte nicht. Es gibt nie den passenden Moment."
+        },
+        {
+            "id": "380",
+            "skylimit": "Jedes mal wenn ich sagte, es ist für mich vorbei, habe ich gelogen."
+        },
+        {
+            "id": "381",
+            "skylimit": "Weint einer war es Liebe, weint keiner war es nie Liebe, weinen beide ist es Liebe."
+        },
+        {
+            "id": "382",
+            "skylimit": "Was ich mache muss kein Mensch verstehen, fällt mir schwer mich noch als Mensch zu sehen."
+        },
+        {
+            "id": "383",
+            "skylimit": "Gib jedem eine zweite Chance, denn irgendwann brauchst du sie selber."
+        },
+        {
+            "id": "384",
+            "skylimit": "Der beste Weg, einen Freund zu haben, ist der, selbst einer zu sein."
+        },
+        {
+            "id": "385",
+            "skylimit": "Der Mensch der dich nach 10 Worten nicht versteht, versteht dich auch nach 100 Worten nicht."
+        },
+        {
+            "id": "386",
+            "skylimit": "Ich habe Frieden mit jedem, doch Krieg mit mir selbst."
+        },
+        {
+            "id": "387",
+            "skylimit": "Erwarte nichts. Aber schätze alles."
+        },
+        {
+            "id": "388",
+            "skylimit": "Alles was ihr seht, ist nicht alles was ich bin."
+        },
+        {
+            "id": "389",
+            "skylimit": "Ein Freund ist jemand, der die Melodie deines Herzens kennt und sie dir vorspielt, wenn du sie vergessen hast."
+        },
+        {
+            "id": "390",
+            "skylimit": "Liebe Fehler machen, anstatt so zu tun als wäre man perfekt."
+        },
+        {
+            "id": "391",
+            "skylimit": "Es gibt keinen Fahrstuhl zum Glück. Man muss die Treppe nehmen."
+        },
+        {
+            "id": "392",
+            "skylimit": "Wege entstehen dadurch, dass man sie geht."
+        },
+        {
+            "id": "393",
+            "skylimit": "Ohne schlechte Zeiten, würden wir die Guten nie schätzen."
+        },
+        {
+            "id": "394",
+            "skylimit": "Hier kratzen ▒▒▒▒▒▒▒▒▒▒▒▒▒▒ um Status lesen zu können."
+        },
+        {
+            "id": "395",
+            "skylimit": "Life is not about finding yourself, it is about creating yourself."
+        },
+        {
+            "id": "396",
+            "skylimit": "Manchmal muss man am Ende stehen, um den Anfang zu sehen."
+        },
+        {
+            "id": "397",
+            "skylimit": "Manche Menschen verdienen nicht was sie bekommen, und andere bekommen nicht was sie verdienen."
+        },
+        {
+            "id": "398",
+            "skylimit": "Die einzigen wirklichen Feinde eines Menschen sind seine eigenen negativen Gedanken."
+        },
+        {
+            "id": "399",
+            "skylimit": "Ein Freund ist einer, der dich mag, obwohl er dich kennt."
+        },
+        {
+            "id": "400",
+            "skylimit": "Die, die nichts zu sagen haben, reden viel. Die, die was zu sagen haben, hingegen kaum."
+        },
+        {
+            "id": "401",
+            "skylimit": "Bist du glücklich, genießt du die Musik. Bist du traurig, verstehst du den Text."
+        },
+        {
+            "id": "402",
+            "skylimit": "Sich nicht zu entscheiden ist auch eine Entscheidung."
+        },
+        {
+            "id": "403",
+            "skylimit": "Ein Lächeln ist das schönste Make-Up, das eine Frau tragen kann."
+        },
+        {
+            "id": "404",
+            "skylimit": "Nur wenige, die mich verstehen, aber mit denen teile ich mein Glück."
+        },
+        {
+            "id": "405",
+            "skylimit": "Auch Alice musste erst fallen, um ins Wunderland zu kommen."
+        },
+        {
+            "id": "406",
+            "skylimit": "Die am meisten lieben, sprechen am wenigsten."
+        },
+        {
+            "id": "407",
+            "skylimit": "You can fake a smile, but you can't fake your feelings."
+        },
+        {
+            "id": "408",
+            "skylimit": "Eine Liebe zu verlieren ist schlimm, auf Verrat reinzufallen noch schlimmer."
+        },
+        {
+            "id": "409",
+            "skylimit": "Vergesse nie, alle anderen leben auch zum ersten Mal."
+        },
+        {
+            "id": "410",
+            "skylimit": "Um maskiert zu sein, braucht man keine Maske vor dem Gesicht."
+        },
+        {
+            "id": "411",
+            "skylimit": "Ohne Tränen hätte die Seele keinen Regenbogen."
+        },
+        {
+            "id": "412",
+            "skylimit": "Wer sich um dich sorgt, der meldet sich. Alles andere ist Gelaber."
+        },
+        {
+            "id": "413",
+            "skylimit": "Bist du gutherzig wirst du enttäuscht. Ist man arrogant wird man geliebt."
+        },
+        {
+            "id": "414",
+            "skylimit": "Ein Schritt zurück ist oft ein Schritt zum Ziel."
+        },
+        {
+            "id": "415",
+            "skylimit": "Tell me baby, why don’t you need me."
+        },
+        {
+            "id": "416",
+            "skylimit": "Willst du den Charakter eines Menschen erkennen, so gebe ihm Macht."
+        },
+        {
+            "id": "417",
+            "skylimit": "Wenn du es träumen kannst, kannst du es auch tun."
+        },
+        {
+            "id": "418",
+            "skylimit": "Du hast dieses gewisse Nichts"
+        },
+        {
+            "id": "419",
+            "skylimit": "Der beste Zeitpunkt ist immer jetzt."
+        },
+        {
+            "id": "420",
+            "skylimit": "Was man ersetzen kann, hat man nie geliebt."
+        },
+        {
+            "id": "421",
+            "skylimit": "An manchen Tagen ist es erst leise, wenn die Musik laut ist."
+        },
+        {
+            "id": "422",
+            "skylimit": "Glaube an das, was sich für dich richtig anfühlt."
+        },
+        {
+            "id": "423",
+            "skylimit": "Bist du reich an Geld bist du reich an Frauen, bist du reich an Liebe juckt es keine Sau."
+        },
+        {
+            "id": "424",
+            "skylimit": "Die Liebe ist der Blick der Seele."
+        },
+        {
+            "id": "425",
+            "skylimit": "Ich warte auf ein Zeichen, ich schwöre eine Nachricht würde reichen."
+        },
+        {
+            "id": "426",
+            "skylimit": "Wenn du einen tollen Menschen gefunden hast hör auf, auf einen Besseren zu warten."
+        },
+        {
+            "id": "427",
+            "skylimit": "Ich habe aus vollem Herzen geliebt, war vor lauter Kälte enttäuscht."
+        },
+        {
+            "id": "428",
+            "skylimit": "Stars can't shine without darkness."
+        },
+        {
+            "id": "429",
+            "skylimit": "If you really care for me, prove that I need to live carefully."
+        },
+        {
+            "id": "430",
+            "skylimit": "Souverän ist nicht, wer viel hat, sondern wenig braucht."
+        },
+        {
+            "id": "431",
+            "skylimit": "Aus Freundschaft kann Liebe werden, aber aus Liebe niemals Freundschaft."
+        },
+        {
+            "id": "432",
+            "skylimit": "Bitte geh' nicht meinen Weg, denn glaub mir, du fällst hin."
+        },
+        {
+            "id": "433",
+            "skylimit": "Das Geheimnis der Eleganz liegt in der Schlichtheit der Dinge."
+        },
+        {
+            "id": "434",
+            "skylimit": "Das Lächeln, das du jemandem schenkst, kehrt zu dir zurück."
+        },
+        {
+            "id": "435",
+            "skylimit": "Mut steht am Anfang des Handelns, Glück am Ende."
+        },
+        {
+            "id": "436",
+            "skylimit": "In der Wut verliert der Mensch seine Intelligenz."
+        },
+        {
+            "id": "437",
+            "skylimit": "Sich gegenseitig gut tun. Darum geht es."
+        },
+        {
+            "id": "438",
+            "skylimit": "Selbst wenn die ganze Welt gegen dich wäre, würde ich hinter dir stehen."
+        },
+        {
+            "id": "439",
+            "skylimit": "Wenn das die Lösung meines Problems ist, hätte ich gerne mein Problem zurück."
+        },
+        {
+            "id": "440",
+            "skylimit": "Hey there! I am using your boyfriend."
+        },
+        {
+            "id": "441",
+            "skylimit": "Leider wird es nicht mehr wie früher, doch heute ist das früher von morgen."
+        },
+        {
+            "id": "442",
+            "skylimit": "Lege keinen Wert auf Schönheit. Schönheit kommt aus dem Herzen."
+        },
+        {
+            "id": "443",
+            "skylimit": "Das beste was ich jemals gelernt habe, war zu vergessen, was ich jemals gelernt habe."
+        },
+        {
+            "id": "444",
+            "skylimit": "Das Leben ist ein Spiegel, wenn du hineinlächelst, lächelt es zurück."
+        },
+        {
+            "id": "445",
+            "skylimit": "Man lebt ruhiger, wenn man nicht alles sagt, was man weiß."
+        },
+        {
+            "id": "446",
+            "skylimit": "Manches wird erst gut, wenn wir es gut sein lassen."
+        },
+        {
+            "id": "447",
+            "skylimit": "Entscheide lieber ungefähr richtig, als genau falsch."
+        },
+        {
+            "id": "448",
+            "skylimit": "Wer das Ziel nicht kennt, wird den Weg nicht finden."
+        },
+        {
+            "id": "449",
+            "skylimit": "Wenn ich du wäre, wäre ich gerne wieder ich."
+        },
+        {
+            "id": "450",
+            "skylimit": "Ich weiß mehr als Du je vergessen kannst."
+        },
+        {
+            "id": "451",
+            "skylimit": "Man merkt nie, was schon getan wurde, man sieht immer nur, was noch zu tun bleibt."
+        },
+        {
+            "id": "452",
+            "skylimit": "Wenn du nicht weißt wovon du redest, fang nicht an mit mir zu reden."
+        },
+        {
+            "id": "453",
+            "skylimit": "Dieser Kontakt hat Sie blockiert."
+        },
+        {
+            "id": "454",
+            "skylimit": "Ich möchte in einer Welt aufwachen, in der ich weiterschlafen kann."
+        },
+        {
+            "id": "455",
+            "skylimit": "Du musst loslassen, um zu merken, was hält."
+        },
+        {
+            "id": "456",
+            "skylimit": "Die besten Menschen triffst du dann, wenn du gar nicht nach ihnen suchst."
+        },
+        {
+            "id": "457",
+            "skylimit": "Normalerweise geb' ich keine zweiten Chancen, aber du bist einfach viel zu besonders dafür."
+        },
+        {
+            "id": "458",
+            "skylimit": "Wir denken zu viel und fühlen zu wenig."
+        },
+        {
+            "id": "459",
+            "skylimit": "Nur Verlierer lieben es, wenn du auf sie wartest, denn das ist die einzige Möglichkeit für sie, sich wichtig zu fühlen."
+        },
+        {
+            "id": "460",
+            "skylimit": "Ein Mund kann lachen, auch wenn das Herz weint."
+        },
+        {
+            "id": "461",
+            "skylimit": "Ich weiß, ich bin faul, aber ich liege dazu!"
+        },
+        {
+            "id": "462",
+            "skylimit": "Ab heute mache ich es wie die Zeit. Ich warte auf niemanden mehr."
+        },
+        {
+            "id": "463",
+            "skylimit": "Wer will findet Wege, wer nicht will, findet Gründe."
+        },
+        {
+            "id": "464",
+            "skylimit": "Man liebt einen Menschen nicht wegen seiner Stärke, sondern wegen seiner Schwächen."
+        },
+        {
+            "id": "465",
+            "skylimit": "Jemanden eine zweite Chance geben, ist wie ein Buch ein zweites mal zu lesen, man weiß wie es endet."
+        },
+        {
+            "id": "466",
+            "skylimit": "Alle sagen, dass Träume wahr werden können. Vergessen aber zu erwähnen, dass Albträume auch Träume sind."
+        },
+        {
+            "id": "467",
+            "skylimit": "Wer zuletzt lacht, hat es nicht eher begriffen."
+        },
+        {
+            "id": "468",
+            "skylimit": "Es bringt nichts, wenn du wie ein BOSS riechst, aber wie ein HUGO aussiehst."
+        },
+        {
+            "id": "469",
+            "skylimit": "Wurstbrot ohne Wurst ist Brot."
+        },
+        {
+            "id": "470",
+            "skylimit": "Man sollte nicht nur nehmen, man muss auch mal geben lassen."
+        },
+        {
+            "id": "471",
+            "skylimit": "Soll gehen wer will, hauptsache du bleibst."
+        },
+        {
+            "id": "472",
+            "skylimit": "Genieße den Moment, bevor er zur Erinnerung wird."
+        },
+        {
+            "id": "473",
+            "skylimit": "Some day you'll see things my way."
+        },
+        {
+            "id": "474",
+            "skylimit": "Wir machen uns viel zu oft abhängig von Menschen, denen wir völlig egal sind."
+        },
+        {
+            "id": "475",
+            "skylimit": "Auf dieser Welt werden mehr Geschichten erzählt, als in jedem Märchen."
+        },
+        {
+            "id": "476",
+            "skylimit": "Ehrlichkeit ist ein' teures Geschenk, welches man von billigen Menschen nicht erwarten kann."
+        },
+        {
+            "id": "477",
+            "skylimit": "Vielleicht sind Herzen doch nur da, um Blut zu pumpen."
+        },
+        {
+            "id": "478",
+            "skylimit": "Hier könnte Ihre Werbung stehen."
+        },
+        {
+            "id": "479",
+            "skylimit": "Gegen das Schicksal bist du machtlos!"
+        },
+        {
+            "id": "480",
+            "skylimit": "Du bist mir viel zu schnell viel zu wichtig geworden."
+        },
+        {
+            "id": "481",
+            "skylimit": "Lebe dein Leben und verschwende es nicht mit Anpassung."
+        },
+        {
+            "id": "482",
+            "skylimit": "Der Mensch ist zwar ein großer Schöpfer, doch auch ein großer Zerstörer."
+        },
+        {
+            "id": "483",
+            "skylimit": "Ich gehe zwar langsam, aber ich gehe nie zurück."
+        },
+        {
+            "id": "484",
+            "skylimit": "Ist nicht immer leicht zu glauben, dass alles gut wird, aber sah auch schon mal schlimmer aus."
+        },
+        {
+            "id": "485",
+            "skylimit": "Wer loslässt, hat beide Hände frei."
+        },
+        {
+            "id": "486",
+            "skylimit": "Das einzige, was im Leben immer gleich bleibt, ist dass sich alles verändert."
+        },
+        {
+            "id": "487",
+            "skylimit": "Wenn Fünf Stunden sich anfühlen wie eine, hat man sie mit der richtigen Person verbracht."
+        },
+        {
+            "id": "488",
+            "skylimit": "Das Problem mit der Liebe ist, dass auch die herzlosen mitspielen."
+        },
+        {
+            "id": "489",
+            "skylimit": "Menschen machen Fehler, auch die, die wir lieben."
+        },
+        {
+            "id": "490",
+            "skylimit": "Wenn du ein Problem hast, versuche es zu lösen. Kannst du es nicht lösen, dann mache kein Problem daraus."
+        },
+        {
+            "id": "491",
+            "skylimit": "Es ist dein Leben, verpasse es nicht."
+        },
+        {
+            "id": "492",
+            "skylimit": "Liebe kennt keine Grenzen, sie kennt sie nur zu überschreiten."
+        },
+        {
+            "id": "493",
+            "skylimit": "Hinter jeder schwarzen Wolke, steckt immer ein Sonnenschein."
+        },
+        {
+            "id": "494",
+            "skylimit": "Sammle kostbare Momente, nicht Dinge."
+        },
+        {
+            "id": "495",
+            "skylimit": "Wir können ja Fremde bleiben..."
+        },
+        {
+            "id": "496",
+            "skylimit": "Menschen glauben der Mehrheit und nicht der Wahrheit."
+        },
+        {
+            "id": "497",
+            "skylimit": "Du kannst von mir nichts erwarten, was du selbst nicht tust."
+        },
+        {
+            "id": "498",
+            "skylimit": "Wenn man die Welt mit gelangweilten Augen sieht, kann sie nie interessant sein."
+        },
+        {
+            "id": "499",
+            "skylimit": "Freunde kann man nicht kaufen, aber wer sie besitzt ist ein reicher Mensch."
+        },
+        {
+            "id": "500",
+            "skylimit": "Nur noch ehrliches Lügen unter gelogenem Lachen."
+        },
+        {
+            "id": "501",
+            "skylimit": "Was dich nicht umbringt, dosier' ich beim nächsten Mal höher."
+        },
+        {
+            "id": "502",
+            "skylimit": "Du musst dich so lieben, wie du bist und nicht so, wie du sein willst."
+        },
+        {
+            "id": "503",
+            "skylimit": "Am schönsten bist du, wenn du niemandem gefallen willst."
+        },
+        {
+            "id": "504",
+            "skylimit": "Die Zeiger drehen sich langsam mal nach unserer Zeit."
+        },
+        {
+            "id": "505",
+            "skylimit": "Rede nicht über Erfolg, sondern lasse Taten sprechen."
+        },
+        {
+            "id": "506",
+            "skylimit": "Erinnerungen sind wichtig, denn manchmal bleibt einem nichts anderes mehr."
+        },
+        {
+            "id": "507",
+            "skylimit": "Man sieht nur mit dem Herzen gut. Das Wesentliche ist für die Augen unsichtbar."
+        },
+        {
+            "id": "508",
+            "skylimit": "Immer die Wahrheit sagen bringt einem wahrscheinlich nicht viele Freunde, aber dafür die Richtigen."
+        },
+        {
+            "id": "509",
+            "skylimit": "Chancen sind wie Sonnenaufgänge, wer zu lange wartet, verpasst sie."
+        },
+        {
+            "id": "510",
+            "skylimit": "Ich kam, sah und vergaß, was ich vorhatte!"
+        },
+        {
+            "id": "511",
+            "skylimit": "Gras wächst nicht schneller, wenn man daran zieht."
+        },
+        {
+            "id": "512",
+            "skylimit": "Das Beste ist, dass ich die beste Zeit noch vor mir habe."
+        },
+        {
+            "id": "513",
+            "skylimit": "... wer nichts hat, kann alles geben"
+        },
+        {
+            "id": "514",
+            "skylimit": "Glaubst du, dass irgendwer, für dich dein Leben leben kann?"
+        },
+        {
+            "id": "515",
+            "skylimit": "Das Herz hat seine Gründe, die der Verstand nicht kennt."
+        },
+        {
+            "id": "516",
+            "skylimit": "Ein gutes Aussehen übersieht niemand, ein gutes Herz jedoch viele."
+        },
+        {
+            "id": "517",
+            "skylimit": "Lächeln ist die beste Art, seinen feinden die Zähne zu zeigen."
+        },
+        {
+            "id": "518",
+            "skylimit": "Nutze die Chancen der stetigen Veränderung."
+        },
+        {
+            "id": "519",
+            "skylimit": "Alles wird gut, aber nie mehr wie es war ..."
+        },
+        {
+            "id": "520",
+            "skylimit": "Ich hoffe Karma schlägt dir ins Gesicht, bevor ich es tue."
+        },
+        {
+            "id": "521",
+            "skylimit": "Beautiful. Definition: A Person who is reading this."
+        },
+        {
+            "id": "522",
+            "skylimit": "Was Du von mir denkst geht mich nichts an."
+        },
+        {
+            "id": "523",
+            "skylimit": "Lieber heimlich klug als unheimlich blöd."
+        },
+        {
+            "id": "524",
+            "skylimit": "Manchmal ist man nur böse, um zu verbergen, wie traurig man eigentlich ist."
+        },
+        {
+            "id": "525",
+            "skylimit": "Wer mit dem Glück spielt, wird zum Verlierer!"
+        },
+        {
+            "id": "526",
+            "skylimit": "Dankbarkeit ist das Gefühl, wenn sich das Herz erinnert."
+        },
+        {
+            "id": "527",
+            "skylimit": "Trust no One."
+        },
+        {
+            "id": "528",
+            "skylimit": "Bevor ich einer von vielen bin, bin ich lieber nichts für dich."
+        },
+        {
+            "id": "529",
+            "skylimit": "Schönheit vergeht. Charakter besteht."
+        },
+        {
+            "id": "530",
+            "skylimit": "Geh mit, oder beiseite."
+        },
+        {
+            "id": "531",
+            "skylimit": "If you can't find somethin' to live for, you best find somethin' to die for."
+        },
+        {
+            "id": "532",
+            "skylimit": "Während der Fahrt mal eben Online, bedeutet vielleicht für immer Offline."
+        },
+        {
+            "id": "533",
+            "skylimit": "Versuche nicht besser zu sein als andere. Versuche besser zu sein, als du es gestern warst."
+        },
+        {
+            "id": "534",
+            "skylimit": "Was passiert ist, ist passiert. Ändern kann das niemand mehr."
+        },
+        {
+            "id": "535",
+            "skylimit": "Fehler sind das Tor zu neuen Entdeckungen."
+        },
+        {
+            "id": "536",
+            "skylimit": "Manchmal weiss man mehr, wenn man unwissend ist."
+        },
+        {
+            "id": "537",
+            "skylimit": "Tue, was du liebst, und liebe, was du tust."
+        },
+        {
+            "id": "538",
+            "skylimit": "Fang nie an aufzuhören, höre nie auf anzufangen."
+        },
+        {
+            "id": "539",
+            "skylimit": "Wenn es dir weh tut bedeutet es dir was."
+        },
+        {
+            "id": "540",
+            "skylimit": "Mit der Zeit wird die Zeit immer wichtiger."
+        },
+        {
+            "id": "541",
+            "skylimit": "Jedes Lächeln hat eine Bedeutung, jede Träne einen Grund."
+        },
+        {
+            "id": "542",
+            "skylimit": "If you leave, please stay gone."
+        },
+        {
+            "id": "543",
+            "skylimit": "Habe nichts in meinem Besitz, aber alles was ich brauche."
+        },
+        {
+            "id": "544",
+            "skylimit": "Arbeite klug, nicht hart."
+        },
+        {
+            "id": "545",
+            "skylimit": "Dancing with the feet is one thing, but dancing with the heart is another"
+        },
+        {
+            "id": "546",
+            "skylimit": "Wenn du Glück suchst, dann bleibe fern von hasserfüllten Menschen."
+        },
+        {
+            "id": "547",
+            "skylimit": "Vielleicht ist alles einfacher als du denkst."
+        },
+        {
+            "id": "548",
+            "skylimit": "Sei du selbst, denn alle anderen gibt es schon."
+        },
+        {
+            "id": "549",
+            "skylimit": "Dich ersetzen? Soll niemand, kann niemand und wird niemand."
+        },
+        {
+            "id": "550",
+            "skylimit": "Ein Tag ohne dich, wäre wie ein Tag ohne Licht."
+        },
+        {
+            "id": "551",
+            "skylimit": "Ich war immer da für dich. Wie oft warst du da für mich?"
+        },
+        {
+            "id": "552",
+            "skylimit": "Kein Grund zu bleiben, ist ein guter Grund zu gehen."
+        },
+        {
+            "id": "553",
+            "skylimit": "Ein Ziel ohne Plan, ist nur ein Wunsch."
+        },
+        {
+            "id": "554",
+            "skylimit": "Der Mensch plant, aber das Schicksal lacht darüber."
+        },
+        {
+            "id": "555",
+            "skylimit": "Das Leben ist zu kurz, um sich ständig zu fragen, was andere von einem halten."
+        },
+        {
+            "id": "556",
+            "skylimit": "Karma ist kein Menü, du bekommst das serviert, was du verdienst."
+        },
+        {
+            "id": "557",
+            "skylimit": "Nicht jeder muss mich mögen. Es reicht, wenn es die richtigen tun."
+        },
+        {
+            "id": "558",
+            "skylimit": "Nur wer seinen eigenen Weg geht, kann von niemanden überholt werden."
+        },
+        {
+            "id": "559",
+            "skylimit": "Herzrasen kann man nicht mähen."
+        },
+        {
+            "id": "560",
+            "skylimit": "Wieso mobbt Armor mich eigentlich?"
+        },
+        {
+            "id": "561",
+            "skylimit": "Viele Leute hören nur die Hälfte, verstehen ein Viertel und erzählen das Doppelte."
+        },
+        {
+            "id": "562",
+            "skylimit": "Man tritt aus Hass gegen den Ball und schießt ins eigene Tor ..."
+        },
+        {
+            "id": "563",
+            "skylimit": "Wenn ich an mir zweifel', belüge ich mich nur selbst."
+        },
+        {
+            "id": "564",
+            "skylimit": "Reden ist Silber, Ausreden sind Gold!"
+        },
+        {
+            "id": "565",
+            "skylimit": "Wo die Liebe aufhört, bleibt nur noch der gegenseitige Respekt."
+        },
+        {
+            "id": "566",
+            "skylimit": "Für immer ist eine lange Zeit, aber ich hätte kein Problem damit, sie mit dir zu verbringen."
+        },
+        {
+            "id": "567",
+            "skylimit": "Reisende soll man nicht aufhalten."
+        },
+        {
+            "id": "568",
+            "skylimit": "Ich mag schöne Menschen. Das Aussehen ist mir egal."
+        },
+        {
+            "id": "569",
+            "skylimit": "Die Hand voller Asse, doch die Welt spielt Schach."
+        },
+        {
+            "id": "570",
+            "skylimit": "Die Pflicht ruft. Sag ihr, ich ruf zurück."
+        },
+        {
+            "id": "571",
+            "skylimit": "Dream as if you’ll live forever. Live as if you’ll die today."
+        },
+        {
+            "id": "572",
+            "skylimit": "Je ruhiger du wirst, desto mehr kannst du hören."
+        },
+        {
+            "id": "573",
+            "skylimit": "Jeder Narr kann über andere lachen, nur ein Weiser lacht über sich selbst."
+        },
+        {
+            "id": "574",
+            "skylimit": "Wer den Weg der Wahrheit geht, stolpert nicht."
+        },
+        {
+            "id": "575",
+            "skylimit": "Was deine Augen nicht sehen, kann dein Herz nicht fühlen."
+        },
+        {
+            "id": "576",
+            "skylimit": "Lege keinen Wert auf die, die dich nicht zu schätzen wissen."
+        },
+        {
+            "id": "577",
+            "skylimit": "Ich bin nicht schwerhörig. Ich ignoriere dich einfach."
+        },
+        {
+            "id": "578",
+            "skylimit": "Wer zuletzt lacht, lacht zuletzt."
+        },
+        {
+            "id": "579",
+            "skylimit": "Manchmal denk ich nur noch. Okay, du hast jetzt gewonnen, denn ich bin am Boden."
+        },
+        {
+            "id": "580",
+            "skylimit": "Die richtigen Personen verändern dich nicht, sie verbessern dich."
+        },
+        {
+            "id": "581",
+            "skylimit": "Was die Raupe Ende der Welt nennt, nennt der Rest der Welt Schmetterling."
+        },
+        {
+            "id": "582",
+            "skylimit": "Mit Stolz zurückblicken und zuversichtlich nach vorne schauen."
+        },
+        {
+            "id": "583",
+            "skylimit": "Stärke bedeutet auch zu wissen, dass man nicht immer stark sein kann."
+        },
+        {
+            "id": "584",
+            "skylimit": "Du bist der Grund warum Liebe für mich keine Bedeutung mehr hat."
+        },
+        {
+            "id": "585",
+            "skylimit": "Was wir loslassen, kann uns nicht mehr festhalten."
+        },
+        {
+            "id": "586",
+            "skylimit": "Heiligenschein? Hatte ich schon. Steht mir nicht."
+        },
+        {
+            "id": "587",
+            "skylimit": "Der Verstand teilt, aber das Herz verbindet."
+        },
+        {
+            "id": "588",
+            "skylimit": "Die schönsten Erinnerungen sammelt man zu zweit."
+        },
+        {
+            "id": "589",
+            "skylimit": "Fordere viel von dir selbst und erwarte wenig von den anderen."
+        },
+        {
+            "id": "590",
+            "skylimit": "Du bist nicht gut, weil du auffällst. Du bist gut, wenn auffällt, dass du fehlst."
+        },
+        {
+            "id": "591",
+            "skylimit": "Mein Absatz ist höher als deine Intelligenz. &\\' ich trage Ballerinas.."
+        },
+        {
+            "id": "592",
+            "skylimit": "Jeder Mensch strahlt nach außen das aus, was er in seinem Herzen hat."
+        },
+        {
+            "id": "593",
+            "skylimit": "Ich wäre jetzt lieber dort, wo meine Gedanken gerade sind."
+        },
+        {
+            "id": "594",
+            "skylimit": "Ich will nicht dein Leben bestimmen, sondern begleiten."
+        },
+        {
+            "id": "595",
+            "skylimit": "Hör auf nachzudenken, und fang an zu leben."
+        },
+        {
+            "id": "596",
+            "skylimit": "Wenn man zu viel nachdenkt, erschafft man Probleme, die es gar nicht gibt."
+        },
+        {
+            "id": "597",
+            "skylimit": "Das Leben, welches du lebst, reflektiert sich im Gesicht deiner Mutter."
+        },
+        {
+            "id": "598",
+            "skylimit": "Was für ein gutes Gedächtnis man hat merkt man erst, wenn man jemanden vergessen will."
+        },
+        {
+            "id": "599",
+            "skylimit": "Sorry, ich habe meine Telefonnummer verloren. Würdest du mir deine borgen?"
+        },
+        {
+            "id": "600",
+            "skylimit": "Wenn jemand fragt: ‘Wie geht’s dir?’ Will er es im Grunde gar nicht wissen."
+        },
+        {
+            "id": "601",
+            "skylimit": "Wenn du gehst, mach die Tür auch richtig zu."
+        }
+    ]
+}
