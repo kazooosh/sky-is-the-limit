@@ -28,10 +28,16 @@
 // console.log(data["sayings"][2])
 // console.log(data); //see your data ( works in Chrome / FF with firebug)
 // con
+// for (let i = 0; i < words.length; i++) {
+//     if ( i && (i % 3 === 0)) {
+//         parts = words.join(' ');
+//     }
+
 // }
 function getRandomInt(max) {
     return Math.floor(Math.random() * Math.floor(max));
 }
+
 
 function jQ() {
     $.getJSON('assets/js/json/sky-limit.json', function (data) {
@@ -43,11 +49,15 @@ function jQ() {
         let x = getRandomInt(data["sayings"].length);
         let saying = data["sayings"][x]["skylimit"];
         let words = saying.split(' ');
-        let parts = "empty";
-        for (let i = 0; i < words.length; i++) {
-            parts = words.join(' ');
+        console.log(words);
+        let line;
+        for (let i = 0; i > words.length; i++) {
+            // if ( i && (i % 3 === 0)) {
+            //     line = words[i] + words[i+2] + words[i+3];
+            //     console.log(line);
+            // }
         }
-        console.log(parts);
+
 
         var c = document.getElementById("myCanvas");
         var ctx = c.getContext("2d");
@@ -55,6 +65,10 @@ function jQ() {
         ctx.drawImage(img, 0, 0);
         ctx.font = "3rem Kalam";
         ctx.fillStyle = 'white';
+        ctx.shadowOffsetX = 3;
+        ctx.shadowOffsetY = 3;
+        ctx.shadowColor = "rgba(0,0,0,0.3)";
+        ctx.shadowBlur = 4;
         ctx.fillText(saying, 10, 780);
 
         $('button').on('click', function () {
