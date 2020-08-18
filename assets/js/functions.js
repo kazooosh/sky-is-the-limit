@@ -48,31 +48,45 @@ function jQ() {
         });
         let x = getRandomInt(data["sayings"].length);
         let saying = data["sayings"][x]["skylimit"];
+        // saying = "Eins zwei drei vier fünf sechs sieben acht neun zehn elf zwölf dreizehn";
+        // console.log(saying);
         let words = saying.split(' ');
-        console.log(words);
-        let line;
-        for (let i = 0; i > words.length; i++) {
-            // if ( i && (i % 3 === 0)) {
-            //     line = words[i] + words[i+2] + words[i+3];
-            //     console.log(line);
-            // }
-        }
-
-
-        var c = document.getElementById("myCanvas");
-        var ctx = c.getContext("2d");
-        var img = document.getElementById("img");
+        let c = document.getElementById("myCanvas");
+        let ctx = c.getContext("2d");
+        let img = document.getElementById("img");
+        // let logo = new Image();
         ctx.drawImage(img, 0, 0);
+        // logo.src = 'assets/img/logo.svg';
+        // ctx.drawImage(logo, 0, 0, 100 * logo.width / logo.height, 100);
         ctx.font = "3rem Kalam";
         ctx.fillStyle = 'white';
         ctx.shadowOffsetX = 3;
         ctx.shadowOffsetY = 3;
         ctx.shadowColor = "rgba(0,0,0,0.3)";
         ctx.shadowBlur = 4;
-        ctx.fillText(saying, 10, 780);
+        let line, lineHeight, textHeight;
+        for (let i = 0; i < words.length; i++) {
+            if (i && !(i % 4) || i == 0) {
+                line = [words[i], words[i+1], words[i+2], words[i+3]].join(' ');
+                textHeight = 800 - Math.floor((words.length-1) / 4) * 50;
+                // console.log(Math.floor((words.length-1) / 4));
+                lineHeight = textHeight + i * 10
+                ctx.fillText(line, 10, lineHeight);
+            }
+        }
 
         $('button').on('click', function () {
-            Canvas2Image.saveAsImage(c, 800, 800, 'png');
+            Canvas2Image.saveAsPNG(c, 800, 800, 'png');
         });
+        setTimeout(logo, 250);
     })
+}
+
+function logo() {
+    let c = document.getElementById("myCanvas");
+    let ctx = c.getContext("2d");
+    let logo = new Image();
+    logo.src = 'assets/img/logo.svg';
+    ctx.shadowColor = "rgba(0,0,0,0)";
+    ctx.drawImage(logo, 0, 0, 100 * logo.width / logo.height, 100);
 }
